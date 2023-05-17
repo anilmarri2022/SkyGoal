@@ -1,10 +1,12 @@
 
 
-![Screenshot (268)](https://github.com/anilmarri2022/SkyGoal/assets/132343434/365f8af2-5499-4771-9970-3bacffe87f3d)
-Login page
 
- Title![Screenshot (269)](https://github.com/anilmarri2022/SkyGoal/assets/132343434/4fdfaaa3-6e62-45ba-80a7-f22820dc1610)
-Signin page
+Login page
+![Screenshot (268)](https://github.com/anilmarri2022/SkyGoal/assets/132343434/7253f8ce-63f1-417d-9eac-20ba1e22c2e0)
+
+
+Signin page![Screenshot (269)](https://github.com/anilmarri2022/SkyGoal/assets/132343434/b4f9e4a3-8dbf-4f9e-9134-7d7db966a7ba)
+
 1. Project's
 
 Authentication
