@@ -1,0 +1,74 @@
+h3 {
+  padding-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 1%;
+  font-style: calc();
+}
+.mb-3 {
+  width: 80%;
+  margin-left: 5%;
+  border-radius: 8px;
+  margin-left: 15%;
+}
+
+.submit {
+  width: 45%;
+  margin-left: 5%;
+  background: #024e82;
+  color: white;
+  border-radius: 8px;
+  margin-left: 15%;
+}
+.SignUp {
+  width: 45%;
+  margin-left: 15%;
+
+  background: #024e82;
+
+  color: rgb(240, 248, 255);
+
+  box-shadow: 0px 8px 12px rgba(34, 123, 254, 0.27);
+  border-radius: 8px;
+}
+.signUp{
+  width: 45%;
+  margin-left: 15%;
+
+  background: #024e82;
+
+  color: rgb(240, 248, 255);
+
+  box-shadow: 0px 8px 12px rgba(34, 123, 254, 0.27);
+  border-radius: 8px;
+}
+p {
+  margin-left: 40%;
+}
+
+.Login {
+  background: white;
+  margin-left: 4%;
+  margin-bottom: 6%;
+  margin-top: 4%;
+  width: 400px;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  padding-bottom: 0%;
+  padding-top: 1%;
+  padding-left: 2%;
+
+  border-radius: 3%;
+
+  box-shadow: 0px 12px 50px rgba(34, 123, 254, 0.08);
+}
+
+.FullPage {
+  background-image: url("../img/Loginbg.jpg");
+  background-size: cover;
+  display: flex;
+}
+.or {
+  margin-right: 12%;
+  font-size: medium;
+}

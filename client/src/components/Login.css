@@ -1,0 +1,58 @@
+h3 {
+  padding-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+  font-style: calc();
+}
+.mb-3 {
+  width: 80%;
+  margin-left: 5%;
+}
+.submit {
+  width: 80%;
+  margin-left: 5%;
+  background: #024e82;
+  box-shadow: 0px 8px 12px rgba(34, 123, 254, 0.26);
+  border-radius: 8px;
+}
+.signUp {
+  width: 80%;
+  margin-left: 5%;
+}
+p {
+  margin-left: 40%;
+}
+.Label {
+  font-weight: bold;
+}
+
+.login {
+  background: white;
+  margin-left: 4%;
+  margin-bottom: 6%;
+  margin-top: 4%;
+  width: 400px;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  padding-bottom: 0%;
+  padding-top: 1%;
+  padding-left: 2%;
+
+  border-radius: 3%;
+
+  box-shadow: 0px 12px 50px rgba(34, 123, 254, 0.08);
+ 
+}
+
+.FullPage {
+  background-image: url("../img/Loginbg.jpg");
+  background-size: cover;
+  display: flex;
+}
+
+.or {
+  padding-left: 0%;
+  margin-left: 12%;
+  font-size:medium
+ }
