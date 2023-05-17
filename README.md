@@ -12,7 +12,7 @@ Signin page![Screenshot (269)](https://github.com/anilmarri2022/SkyGoal/assets/1
 Authentication
 
 Used technologies:
-Html,Css,JavaScript, BootStrap, ReactBootStrap Rxpress.js, Node.js, MongoDB Axios
+Html,Css,JavaScript, BootStrap, ReactBootStrap Rxpress.js, Node.js, MongoDB Axios, bcrypt,Postman tool
 
 2. Project Description:
 
